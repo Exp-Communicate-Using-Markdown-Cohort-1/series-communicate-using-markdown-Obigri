@@ -11,3 +11,11 @@ i wonder, or maybe it just seems like it
 #!/bin/bash
 Some more code goes here
 ```
+
+- [x] Start markdown Series
+- [x] Add headers
+- [x] Add an image
+- [x] Add some code
+- [x] Make a task list
+- [ ] Merge
+- [ ] Finish
