@@ -6,3 +6,8 @@ i wonder, or maybe it just seems like it
 
 
 ![Beginner Procreate drawing of bestboy Alpha from FFXIV](https://filedn.eu/lbGN6UWGtrLQ6gorNBS8kg0/AlphaWIP.jpg)
+
+```
+#!/bin/bash
+Some more code goes here
+```
